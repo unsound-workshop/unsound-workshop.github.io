@@ -34,5 +34,4 @@ The workshop would be its first instance and is meant to be welcoming for both p
 * Impacts of the false sense of security when the chain of trust is broken by subtle unsoundness in verification tools.
 
 
-Find our first draft for a call for papers here:
-https://github.com/unsound-workshop/Unsound2022
+Find our first draft for a call for papers here: [Unsound 2022](https://github.com/unsound-workshop/Unsound2022)
