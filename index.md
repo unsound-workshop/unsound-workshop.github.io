@@ -35,3 +35,9 @@ The workshop would be its first instance and is meant to be welcoming for both p
 
 
 Find our first draft for a call for papers here: [Unsound 2022](https://github.com/unsound-workshop/Unsound2022)
+
+## Who is involved?
+
+Unsound is currently bootstrapped by [Marco Servetto](https://people.wgtn.ac.nz/marco.servetto/about) and [Jan Bessai](https://noprotocol.net/jan/).
+You can chat with us in the [unsound-workshop channel](https://discord.gg/2RkFdC5Xu3) on Discord.
+
