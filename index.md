@@ -34,7 +34,42 @@ The workshop would be its first instance and is meant to be welcoming for both p
 * Impacts of the false sense of security when the chain of trust is broken by subtle unsoundness in verification tools.
 
 
-Find our first draft for a call for papers here: [Unsound 2022](https://github.com/unsound-workshop/Unsound2022)
+## Call for Papers
+
+Unsound 2022 will be part of [SPLASH](https://2022.splashcon.org/) and take place as a hybrid event.
+
+### Contributions:
+
+Deadline: 2022-09-01 (23:59 AOE)
+The main body of the paper should have 4 pages of text. Additional material (bibliography, related work, and code examples) will not count toward this limit.
+We strongly encourage authors to include instructions to reproduce results or exploits.
+
+There will be a friendly peer review process, focusing on checking that the submitted material is appropriate for the workshop.
+
+#### Publication
+
+Informal proceedings will be made publicly available on the workshop web page. However, presentation at Unsound does not count as prior publication, and can later be published at a conference of the authors' choosing.
+
+### Instruction to Authors
+
+#### Submission
+
+Authors should be aware of ACM’s policies on plagiarism (https://www.acm.org/publications/policies/plagiarism).
+
+Program Committee members are allowed to submit papers.
+
+Papers must be submitted online at:
+
+https://unsound2022.hotcrp.com/
+
+#### Formatting:
+
+Submitted papers should be in portable document format (PDF), formatted using the ACM SIGPLAN style guidelines. Authors should use the acmart format, with the acmsmall sub-format for ACM proceedings. For details, see:
+
+http://www.sigplan.org/Resources/Author/#acmart-format
+
+It is recommended to use the review option when submitting a paper; this option enables line numbers for easy reference in reviews.
+
 
 ## Who is involved?
 
