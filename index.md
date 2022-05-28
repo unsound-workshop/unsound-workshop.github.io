@@ -54,19 +54,19 @@ Informal proceedings will be made publicly available on the workshop web page. H
 
 #### Submission
 
-Authors should be aware of ACM’s policies on plagiarism (https://www.acm.org/publications/policies/plagiarism).
+Authors should be aware of ACM’s policies on plagiarism [https://www.acm.org/publications/policies/plagiarism](https://www.acm.org/publications/policies/plagiarism).
 
 Program Committee members are allowed to submit papers.
 
 Papers must be submitted online at:
 
-https://unsound2022.hotcrp.com/
+[https://unsound2022.hotcrp.com/](https://unsound2022.hotcrp.com/)
 
 #### Formatting:
 
 Submitted papers should be in portable document format (PDF), formatted using the ACM SIGPLAN style guidelines. Authors should use the acmart format, with the acmsmall sub-format for ACM proceedings. For details, see:
 
-http://www.sigplan.org/Resources/Author/#acmart-format
+[http://www.sigplan.org/Resources/Author/#acmart-format](http://www.sigplan.org/Resources/Author/#acmart-format)
 
 It is recommended to use the review option when submitting a paper; this option enables line numbers for easy reference in reviews.
 
